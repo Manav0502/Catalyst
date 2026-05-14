@@ -1,1 +1,3 @@
 # Catalyst
+
+Author ~ Manav Agarwal
